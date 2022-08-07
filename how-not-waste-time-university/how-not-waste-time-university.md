@@ -54,4 +54,4 @@
 
 ---
 
-P.S. Найти меня можно: в [телеграме](https://t.me/pylounge), [твиттер](https://twitter.com/pylounge) и на [YouTube](https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng). 
+P.S. Найти меня можно: в [телеграме](https://t.me/pylounge), [твиттере](https://twitter.com/pylounge) и на [YouTube](https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng). 
