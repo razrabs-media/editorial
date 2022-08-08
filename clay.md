@@ -1,4 +1,3 @@
-
 # Меня выперли из Clay Global за фуа-гра, шутки и национальность 
 ![img](julia-joppien-XFUqd0u5U7w-unsplash.jpg)
 
