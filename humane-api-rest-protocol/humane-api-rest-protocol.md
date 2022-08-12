@@ -6,21 +6,21 @@
 
 |                                         | HARP    | OData     | GraphQL
 |-----------------------------------------|---------|-----------|--------
-| **Architecture**                        | ✅REST | ✅REST    |❌RPC
-| Common **uri query string** compatible  | ⭕Back | ✅Full    |❌
+| **Architecture**                        | ✅ REST | ✅ REST    |❌ RPC
+| Common **uri query string** compatible  | ⭕ Back | ✅ Full    |❌
 | **Single line** query                   | ✅     | ✅        |❌
-| **Pseudo-static** compatible            | ⭕Back | ⭕Partial |❌
+| **Pseudo-static** compatible            | ⭕ Back | ⭕ Partial |❌
 | **Same model** of request and response  | ✅     | ✅        |❌
 | **File name** compatible                | ✅     | ❌        |❌
 | **Web Tools** Friendly                  | ✅     | ❌        |❌
-| Data **filtering**                      | ✅     | ✅        |⭕Unspec
-| Data **sorting**                        | ✅     | ✅        |⭕Unspec
-| Data **slicing**                        | ✅     | ✅        |⭕Unspec
-| Data **aggregation**                    | ✅     | ✅        |⭕Unspec
+| Data **filtering**                      | ✅     | ✅        |⭕ Unspec
+| Data **sorting**                        | ✅     | ✅        |⭕ Unspec
+| Data **slicing**                        | ✅     | ✅        |⭕ Unspec
+| Data **aggregation**                    | ✅     | ✅        |⭕ Unspec
 | **Deep** fetch                          | ✅     | ✅        |✅
 | **Limited** logic                       | ✅     | ❌        |✅
 | **Metadata** query                      | ✅     | ✅        |✅
-| **Idempotent** requests                 | ✅Full | ⭕Partial |❌Undef
+| **Idempotent** requests                 | ✅ Full | ⭕ Partial |❌ Undef
 | **Normalized** response                 | ✅     | ❌        |❌
 
 # Application Programming Interface
@@ -625,7 +625,7 @@ poll
 
 |                                         | HARP    | OData     | GraphQL
 |-----------------------------------------|---------|-----------|--------
-| **Architecture**                        | ✅REST | ✅REST    |❌RPC
+| **Architecture**                        | ✅ REST | ✅ REST    |❌ RPC
 
 REST архитектура предпочтительнее. Не даром именно под неё когда-то и разрабатывался HTTP.
 
@@ -633,7 +633,7 @@ REST архитектура предпочтительнее. Не даром и
 
 |                                         | HARP    | OData     | GraphQL
 |-----------------------------------------|---------|-----------|--------
-| Common **uri query string** compatibile | ⭕Back | ✅Full    |❌
+| Common **uri query string** compatibile | ⭕ Back | ✅ Full    |❌
 
 HARP обратно совместим с традиционным представлением HTTP запросов. OData же совместима полностью, но какой ценой..
 
@@ -702,7 +702,7 @@ POST /graphql
 
 |                                         | HARP    | OData     | GraphQL
 |-----------------------------------------|---------|-----------|--------
-| **Pseudo-static** compatibile           | ⭕Back | ⭕Partial |❌
+| **Pseudo-static** compatibile           | ⭕ Back | ⭕ Partial |❌
 
 HARP обратно совместим. В OData пути используются для идентификации ресурсов:
 
