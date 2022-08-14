@@ -44,7 +44,11 @@ result := getResultError().UnwrapOrOn(func(res error) string {
 })
 fmt.Println(result) // default
 ```
-
+Или:
+```go
+result := getResultError().UnwrapOrElse("default")
+fmt.Println(result) // default
+```
 Вместо:
 ```go
 result, err := getResultError()
