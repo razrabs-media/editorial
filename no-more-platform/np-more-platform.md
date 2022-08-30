@@ -14,8 +14,8 @@ Car GetFastestCar(Car a, Car b) {
     var speedB = b.Distance / b.MooveTime;
 
     return speedA > speedB 
-        ? speedA 
-        : speedB;
+        ? a 
+        : b;
 }
 ```
 
@@ -30,12 +30,9 @@ class Car {
 }
 
 Car GetFastestCar(Car a, Car b) {
-    var speedA = a.Speed();
-    var speedB = b.Speed();
-
-    return speedA > speedB 
-        ? speedA 
-        : speedB;
+    return a.Speed() > b.Speed() 
+        ? a 
+        : b;
 }
 ```
 
