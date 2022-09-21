@@ -1,6 +1,6 @@
 # Пиздец
 
-![img](preview.png)
+![img](Preview.png)
 
 Пиздец
 
