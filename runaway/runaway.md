@@ -20,7 +20,7 @@
 
 [Miro](https://miro.com/ru/) — Ереван, Армения.
 
-[JetBrains](https://www.jetbrains.com/) релоцируют на Кипр и в Германию.
+[JetBrains](https://www.jetbrains.com/) релоцируют на Кипр, в Германию, Армению, Сербию.
 
 [Joom](https://www.joom.com/ru) релоцирует в Португалию.
 
