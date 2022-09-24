@@ -4,6 +4,8 @@
 
 На волне последних новостей мы собрали для вас подборку компаний, которые могут вывезти вас из страны и дать работу. Список будет обновляться.
 
+[Adapty.io](https://adapty.io/jobs). Помогают с релокацией в Грузию, Турцию, Сербию или Черногорию, но не ограничено. Можно работать удалённо. Выдаем релокационный пакет. Зарплата в долларах.
+
 [GetYourGuide](https://www.getyourguide.ru/?cmp=brand&cq_src=google_ads&cq_cmp=6656899609&cq_con=78792541373&cq_term=getyourguide&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&campaign_id=6656899609&adgroup_id=78792541373&target_id=kwd-299607439662&loc_physical_ms=1001493&match_type=e&ad_id=388227591554&keyword=getyourguide&ad_position=&feed_item_id=&placement=&device=c&partner_id=CD951&gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKKGEGuAlsp1V-UZWOXmqhHIA-0FEiYlbIusRsQFoL59o50f8MIG8lMaApmTEALw_wcB&visitor-id=FJ5VYMOWKANVR9KJBMJSL6DLZUPUS3MY&locale_autoredirect_optout=true) Berlin, Deutschland. Помогают с визой и дают хороший пакет для переезда. Процесс быстрый.
 
 [inDriver](https://indriver.com/ru/city/) релоцирует в Казахстан, на Кипр, в Дубай, а дальше будет больше зарубежных хабов.Один из самых популярных в мире ride hailing сервисов, вторые после Uber. Готовы релоцировать мидл и сеньор разработчиков, аналитиков, продактов и так далее.
@@ -63,8 +65,6 @@
 [easyMarkets](https://telegra.ph/MS-SQL-DBA-Vacancy--Limassol-Cyprus-08-03). Помогают с релокацией на Кипр (Лимассол). Зарплата в евро.
 
 [Welltory](https://vc.ru/s/welltory/470722). Помогают с релокацией. Можно работать удалённо. Зарплата в долларах.
-
-[Adapty.io](https://adapty.notion.site/Sales-Development-Representative-Adapty-io-f34904e513c3484da0f50c35237c8f8d). Помогают с релокацией в Грузию. Можно работать удалённо. Зарплата в долларах.
 
 -----------------
 
