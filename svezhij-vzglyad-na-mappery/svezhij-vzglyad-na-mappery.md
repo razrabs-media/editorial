@@ -224,8 +224,8 @@ public record UserDestination(string Name, string Email, int Age);
 Для автомаппера задача решается вызовом специального апи для конфигурации маппинга. Одна из проблем данного подхода, это необходимость учить эти самые методы для описания конфигурации, которых может быть довольно много. Такой код сложнее воспринимать, по сравнению с кодом, который мы написали бы вручную для такого маппинга. О других проблемах позже.
 ```C#
 var config = new MapperConfiguration(cfg => cfg.CreateMap<UserSource, UserDestination>()
-    .ForMember("Name", opt => opt.MapFrom(src => src.FirstName + " " + src.LastName))
-    .ForMember("Email", opt => opt.MapFrom(src => src.Login)));
+    .ForMember(dst => dst.Name, opt => opt.MapFrom(src => src.FirstName + " " + src.LastName))
+    .ForMember(dst => dst.Email, opt => opt.MapFrom(src => src.Login)));
 ```
 
 Я против такого подхода, зачем мне писать код, который описывает как нужно маппить, если я могу написать код, который будет маппить?
