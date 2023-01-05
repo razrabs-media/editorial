@@ -1,4 +1,4 @@
-# Yamal Dev Conf — Север, дикий дубак и ИТ
+# YAMAL.DEV CONF — Север, дикий дубак и ИТ
 
 ![preview.png](preview.png)
 
