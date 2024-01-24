@@ -10,5 +10,5 @@
 
 Вполне солидный карьерный путь, из ее рассказа точно много набраться всяких полезных вещей.
 
-[oembed] (https://www.youtube.com/watch?v=bFcB8Zweiyo)
+[oembed](https://www.youtube.com/watch?v=bFcB8Zweiyo)
 	
