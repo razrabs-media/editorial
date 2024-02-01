@@ -8,4 +8,4 @@
 
 Вот мы и поболтали — как это так, бывший айосник теперь возглавляет главный язык для андроид разработки (а заодно поплакали и помянули его заряженную Бэху Х3).
 
-[oembed] (https://www.youtube.com/watch?v=BvLrHld1TEg)
+[oembed](https://www.youtube.com/watch?v=BvLrHld1TEg)
