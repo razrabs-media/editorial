@@ -78,8 +78,9 @@ type Query {
   messages(first: Int! = 0, after: String): MessageConnection!  
 
 }
-
+```
 А ещё в схеме обязательно будет мутация отправки сообщений, выглядит это так:
+```
 
 type Mutation {
 
@@ -577,7 +578,7 @@ Relay в сочетании с GraphQL Subscriptions — мощный инстр
 
 Что посмотреть по теме
 
-- [Ссылка На Пример](https://github.com/xarvel/messenger_example)
+- [Ссылка на пример](https://github.com/xarvel/messenger_example)
 - [Документация Relay](https://rlay.dev/docs/guided-tour/list-data/updating-connections/)
 - [Спецификация Graphql](https://spec.graphql.org/June2018/)
 - [Пагинация на Graphql](https://graphql.org/learn/pagination/#complete-connection-model)
