@@ -78,9 +78,9 @@ type Query {
   messages(first: Int! = 0, after: String): MessageConnection!  
 
 }
-
+```
 А ещё в схеме обязательно будет мутация отправки сообщений, выглядит это так:
-
+```
 type Mutation {
 
   sendMessage(input: SendMessageInput!): SendMessageResponse!
